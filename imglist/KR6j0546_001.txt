@@ -1,0 +1,5 @@
+001-0467a00	T 001-0467a	buddhist/T-taisho/T21/04/T21-0467.png
+001-0467b00	T 001-0467b	buddhist/T-taisho/T21/04/T21-0467.png
+001-0467c00	T 001-0467c	buddhist/T-taisho/T21/04/T21-0467.png
+001-0468a00	T 001-0468a	buddhist/T-taisho/T21/04/T21-0468.png
+001-0468b00	T 001-0468b	buddhist/T-taisho/T21/04/T21-0468.png
